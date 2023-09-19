@@ -3,4 +3,4 @@
  
  Repositório criado durante o curso de Git e Github
 
- Adicianando uma linha diretament do site!
+ Adicianando uma linha diretamente do site!
